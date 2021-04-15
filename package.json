@@ -1,0 +1,16 @@
+{
+  "name": "lbry-embed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codemirror": "^5.60.0",
+    "http-server": "^0.12.3"
+  }
+}
